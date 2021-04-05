@@ -6,5 +6,5 @@ The user input at runtime consists of the following:
 *	The start node 
 *	“step-by-step” option or not.
 *	The heuristic to use 
-..*	Fewest nodes, or 
-..*	Straight-line distance
+  - Fewest nodes, or 
+  - Straight-line distance
