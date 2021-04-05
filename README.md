@@ -5,6 +5,6 @@ The objective is to find the “best” path (shortest distance or fewest nodes)
 The user input at runtime consists of the following:
 *	The start node 
 *	“step-by-step” option or not.
-*	The heuristic to use
-  *	Fewest nodes, or
-  *	Straight-line distance
+*	The heuristic to use:
+  1.	Fewest nodes, or
+  2. Straight-line distance
