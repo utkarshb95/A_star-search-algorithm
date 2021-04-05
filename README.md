@@ -8,3 +8,12 @@ The user input at runtime consists of the following:
 *	The heuristic to use:
   1.	Fewest nodes, or
   2. Straight-line distance
+
+To run the program:
+```
+python astar.py
+```
+To run the visualization:
+```
+python astar_visual.py
+```
